@@ -11,3 +11,5 @@
 + 07_template.ipynb
 + 08_cipher.ipynb
 + 09_Typoglycemia.ipynb
+### reference
++ http://www.cl.ecei.tohoku.ac.jp/nlp100/
